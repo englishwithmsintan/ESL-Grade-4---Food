@@ -1,0 +1,8 @@
+{
+  "name": "Grade 4 Unit 4 ESL - Food",
+  "description": "An interactive, gamified review application for Grade 4 ESL Unit 1 vocabulary, grammar, and practice SAT exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
